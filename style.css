@@ -1,0 +1,22 @@
+.panda-bg-light {
+    background-color: #fceae8;
+}
+
+.box-bg-warning {
+    background-color: #ffa500;
+}
+
+.box-bg-info {
+    background-color: #da70d6;
+}
+
+.box-bg-danger {
+    background-color: #0000ff;
+}
+
+.button-btn-info {
+    color: white;
+    background-color: #ff3c89;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
